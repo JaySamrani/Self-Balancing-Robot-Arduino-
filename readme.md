@@ -1,3 +1,7 @@
+### :- Contributions
+## Jay Samarni, Manjeet, Narendra Kumar, Sonu Kumar
+
+### :- Project Explanation
 The two-wheel cart will be made of two wheels, a platform, and a motor on each wheel.The platform will be made of a lightweight material,
 such as plywood. The motors will be connected to the platform using a frame. The sensors that will be used are an accelerometer and a gyroscope.
 These sensors will be used to measure the tilt of the cart. The controllers that will be used are a PID controller and a motor controller. The PID
